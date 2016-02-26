@@ -16,7 +16,7 @@
   },
   "scripts": {
     "build": "echo No build need on this project!",
-    "prepare": "nave use 0.4 npm --registry http://npm.clockte.ch install && nave use 0.4 npm prune"
+    "prepare": "nave use 4 npm --registry http://npm.clockte.ch install && nave use 4 npm prune"
   },
   "main": "app.js"
 }
