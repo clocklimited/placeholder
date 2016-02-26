@@ -14,5 +14,8 @@
     "node" : ">=0.4.3.1",
     "npm" : ">=2.14.20"
   },
+  "scripts": {
+    "prepare": "npm --registry http://npm.clockte.ch install && npm prune"
+  },
   "main": "app.js"
 }
