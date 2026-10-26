@@ -11,6 +11,12 @@ you your own private service, akin to [placehold.it](http://placehold.it) or [Du
 
 ## Running the server
 
+Use Node.js 26.12.1 or newer and Yarn Classic (1.x). To install Yarn:
+
+```
+npm install --global yarn@1.22.22
+```
+
 Clone this repo:
 
 ```
